@@ -1,0 +1,7 @@
+{
+  "name": "Squad Restro And Cafe",
+  "description": "A premium dining and social hub located in Cuttack, offering gourmet food, exquisite coffee, and a vibrant atmosphere.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
